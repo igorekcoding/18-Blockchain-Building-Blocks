@@ -35,3 +35,6 @@ After executing the command, similar output will be generated on screen. After a
 
 Sending transactions via MyCrypto
 We will use the wallet application MyCrypto to send a test transaction. Open MyCrypto wallet and click on Keystore File to open the first node.
+
+<img width="1154" alt="Screen Shot 2021-05-28 at 7 52 38 PM" src="https://user-images.githubusercontent.com/75813285/120051390-6c001b00-bfee-11eb-927e-510696754550.png">
+
