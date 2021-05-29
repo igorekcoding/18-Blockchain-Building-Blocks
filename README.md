@@ -38,3 +38,6 @@ We will use the wallet application MyCrypto to send a test transaction. Open MyC
 
 <img width="1154" alt="Screen Shot 2021-05-28 at 7 52 38 PM" src="https://user-images.githubusercontent.com/75813285/120051390-6c001b00-bfee-11eb-927e-510696754550.png">
 
+a) The enter the public address of the second node node_hw2 and the amount of ETH to send (25), then hit Send Transaction and confirm.
+b) After confirming the transaction, click on Check TX Status
+c)You can check the balance of node_hw1 by logging back in with the keystore file as explained above, and see how the balance has decreased by 25 ETH. Congratulations! You've just sent your first transaction on the blockchain.
